@@ -10,7 +10,7 @@ Hello 😊, With a strong passion for the video game industry, I always want thi
 
 🍳 This idea was implemented on sources that I researched
 1. [Gamefromscratch](https://gamefromscratch.com/)
-2. [Public_source_engines-By](https://github.com/redorav/public_source_engines)
+2. [Public_source_engines-By redorav](https://github.com/redorav/public_source_engines)
 
 ------------------------------
 # Game engine
