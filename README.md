@@ -38,6 +38,10 @@ This is a list of famous game engines, even some game engines people still don't
 ------------------------------
 # Texturing Software
 ------------------------------
+# Physic Engine 3D
+------------------------------
+# Physic Engine 2D
+------------------------------
 # Physically Based Rendering
 ------------------------------
 # Tools for checking, profiling, and debugging
@@ -50,4 +54,6 @@ This is a list of famous game engines, even some game engines people still don't
 ------------------------------
 # Visual Effects Software 
 ------------------------------
-# Technologies and AI
+# AI for Gamedevelopment
+------------------------------
+# Novel Technologies
