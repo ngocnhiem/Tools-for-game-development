@@ -29,3 +29,25 @@ This is a list of famous game engines, even some game engines people still don't
 # Game engine 2D
 ------------------------------
 # Rendering engine
+------------------------------
+# 3D Modeling 
+------------------------------
+# 2D Art
+------------------------------
+# Game Framework 2D/3D
+------------------------------
+# Texturing Software
+------------------------------
+# Physically Based Rendering
+------------------------------
+# Tools for checking, profiling, and debugging
+------------------------------
+# Video editing and visual effects software
+------------------------------
+# Audio editing and music production software
+------------------------------
+# Video Editing Software
+------------------------------
+# Visual Effects Software 
+------------------------------
+# Technologies and AI
