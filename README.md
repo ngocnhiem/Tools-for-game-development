@@ -18,7 +18,7 @@ Hello 😊, With a strong passion for the video game industry, I always want thi
 # Game engine 3D
 This is a list of famous game engines, even some game engines people still don't know
 
-|Logo | Engine | Link website | Screenshot | condition |
+|Logo | Engine | Link website | Screenshot | Condition |
 | ---- | :---: | --- | --- | --- |
 |![ue5](Logos/unreal5_64px.png)| Unreal Engine | https://www.unrealengine.com/ | <img src="https://www.provideocoalition.com/wp-content/uploads/unrealengine5early002.jpg" width="300"/>| Actively maintained |
 |![unity](Logos/unity_64px.png)| Unity Engine | https://unity.com/ | <img src="https://contents.simplygon.com/features/unity/feature-unity.webp" width="300"/>| Actively maintained |
@@ -27,11 +27,16 @@ This is a list of famous game engines, even some game engines people still don't
 |![o3dengine](Logos/o3d_64px.png)| O3D Engine | https://o3de.org/ | <img src="https://pbs.twimg.com/media/GxN5k7zXwAQ1IUX?format=jpg&name=large" width="300"/> | Actively maintained |
 |![wickedengine](Logos/wicked_64px.png)| Wicked Engine | https://github.com/turanszkij/WickedEngine | <img src="https://pbs.twimg.com/media/GE6kFi-XsAAzuWB?format=jpg&name=4096x4096" width="300"/> | Actively maintained |
 ------------------------------
-# Game engine / FameWork 2D
+# Game engine 2D
 ------------------------------
 # Rendering engine
 ------------------------------
 # 3D Modeling 
+
+|Logo | Software | Link website | Screenshot | Condition |
+| ---- | :---: | --- | --- | --- |
+|![blender](Logos/blender_64px.png)| Blender | https://www.blender.org/ | <img src="https://miro.medium.com/v2/resize:fit:1400/1*AvOQFRoRuqDumgZ46cGEoA.jpeg" width="300"/>| Actively maintained |
+|![maya](Logos/maya_64px.png)| Maya| https://www.autodesk.com/products/maya/overview | <img src="https://i.all3dp.com/wp-content/uploads/2022/11/09145742/a-low-res-model-of-a-mayan-temple-you-can-make-wit-larry-wood-via-all3dp-220808.jpg" width="300"/> | Actively maintained |
 ------------------------------
 # 2D Art
 ------------------------------
