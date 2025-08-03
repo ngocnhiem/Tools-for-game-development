@@ -47,6 +47,9 @@ This is a list of famous game engines, even some game engines people still don't
 # Physic Engine 3D
 ------------------------------
 # Physic Engine 2D
+|Logo | Software | Link website | Screenshot | Condition |
+| ---- | :---: | --- | --- | --- |
+|![box2d](Logos/box2d_64px.png)| Box2D | https://github.com/erincatto/box2d | <img src="https://www.geeks3d.com/public/jegx/2020q3/geexlab-box2d-demo-022.jpg" width="300"/>| Actively maintained |
 ------------------------------
 # Physically Based Rendering
 ------------------------------
